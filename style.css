@@ -1,0 +1,75 @@
+/* *{
+    background-color: blue;
+}*/
+
+h1{
+    color: yellow;
+    background-color:bisque
+}
+
+
+.example1{
+    color: orange;
+    background-color: antiquewhite;
+
+    border: 2px solid black;
+    border-radius: 200px;
+}
+
+#example2{
+    color: purple;
+    background-color: beige;
+    border: 5px solid orchid;
+    border-radius: 100px;
+}
+
+.example3{
+    color: blueviolet;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: lowercase;
+    background-color: rgb(165, 42, 130);
+    line-height: 200px;
+    text-shadow: 2px 3px 5px black;
+}
+
+.example4{
+    color: aqua;
+    background-color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    font-weight:bolder;
+    font-size: 100px;
+}
+
+#example5{
+    border: 2px solid black;
+    border-style: dashed;
+    border-width:20px;
+    border-radius: 20px;
+    color:black;
+    opacity: 0.5;
+}
+
+#example6{
+    background-color: blanchedalmond;
+    color: blueviolet;
+    background-image: url(https://images.unsplash.com/photo-1716718405779-79c152f0f831?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyfHx8ZW58MHx8fHx8);
+    width: 100%;
+    height: 220px;
+    background-size: 1000px;
+    background-size: 300px 300px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.example7{
+    width: 500px;
+    height: 500px;
+    color: chartreuse;
+    background-color: purple;
+    margin: 5px;
+    padding: 20px;
+    box-sizing: border-box;
+    border: 2px solid black;
+}
