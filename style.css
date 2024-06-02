@@ -104,11 +104,13 @@ h1{
     background-color: palevioletred;
     position: sticky;
     top: 500px;
+
 }
 
 .div4{
     background-color: plum;
     position: fixed;
+    top: 250px;
 }
 
 .box{
