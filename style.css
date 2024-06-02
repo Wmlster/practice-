@@ -73,3 +73,45 @@ h1{
     box-sizing: border-box;
     border: 2px solid black;
 }
+
+.container{
+    border: 1px solid black;
+    height: 8000px;
+    background-color: antiquewhite;
+}
+
+.container>div{
+    margin: 10px;
+    width: 300px;
+    height: 300px;
+   display: inline-block;
+}
+
+.div1{
+    background-color: yellow;
+}
+
+.div2{
+    background-color: palegreen;
+    /*position: relative;
+    bottom: 200px;
+    left: 200px;*/
+
+    /*position:absolute;*/
+}
+
+.div3{
+    background-color: palevioletred;
+    position: sticky;
+    top: 500px;
+}
+
+.div4{
+    background-color: plum;
+    position: fixed;
+}
+
+.box{
+    background-color: aqua;
+    height: 5000px;
+}
